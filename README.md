@@ -35,15 +35,6 @@ You can also open the notebook in Google Colab for interactive execution:
 - **Training Set**: 96% accuracy.
 - **Testing Set**: 94% accuracy.
 
-### **Visualizations**
-The project includes various visualizations to better understand the data and model performance:
-- **Training Data Distribution**  
-  ![Train Data Distribution](images/train_data_distribution.png)
-- **Testing Data Distribution**  
-  ![Test Data Distribution](images/test_data_distribution.png)
-- **Predicted Sentiments**  
-  ![Predicted Sentiments](images/predicted_sentiments.png)
-
 ### **Learning Outcomes**
 - Learned the basics of neural networks and their components.
 - Gained hands-on experience with transformer-based NLP models like BERT.
